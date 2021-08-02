@@ -3,4 +3,4 @@ Problem Statement - Given a certain number of parameters, predict what the chanc
 Mean squared error is less than 0.07 and accuracy is above 72%.
 
 Code is given in .ipynb file.
-Train and test dataset is provided.
+Train and test dataset is provided in .csv files.
